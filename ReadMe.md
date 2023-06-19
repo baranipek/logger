@@ -34,8 +34,12 @@ removeAllLogTargets(): O(1)
 
 ## Next Release 
 Implement other log targets 
+
 Add action for other targets 
+
 Performance review 
+
+Improve tests 
 
 
 
