@@ -41,6 +41,14 @@ Performance review
 
 Improve tests 
 
+Colorized Logger 
+
+Add date to logs 
+
+Add multiple strings 
+
+Log implemented class 
+
 
 
 
